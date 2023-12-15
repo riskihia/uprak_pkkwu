@@ -1,11 +1,15 @@
 /********** Template CSS **********/
 :root {
-  --primary: #bfbfbf;
+  --primary: #828282;
   /* --primary: #3cb815; */
   /* --secondary: #f65005; */
   --secondary: #222021;
   --light: #f7f8fc;
   --dark: #111111;
+}
+
+.text-foody {
+  color: #ffffff;
 }
 
 .back-to-top {
